@@ -1,0 +1,30 @@
+body {
+      background-color: antiquewhite;
+}
+
+h1 {
+    padding-left: 50px;
+}
+
+img {
+    margin-left: 50px;
+    width: 700px;
+    height: 300px
+}
+
+h2 {
+    font-size: 30px;
+    padding-left: 50px;
+}
+
+p {
+    padding-left: 50px;
+    font-size: 18px;
+}
+
+ol, ul {
+
+    font-size: 18px;
+    padding-left: 80px;
+}
+
